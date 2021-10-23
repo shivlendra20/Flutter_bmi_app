@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 
-const activeTextStyle = TextStyle(fontSize: 18.0, color: Color(0xFF8D8E98));
+const activeTextStyle = TextStyle(fontSize: 20.0, color: Color(0xFF8D8E98));
 const numberTextStyle = TextStyle(
   color: Color(0xFFFFFFFF),
   fontSize: 50.0,
-  fontWeight: FontWeight.w900,
+  fontWeight: FontWeight.w800,
 );
 const largeTextStyle = TextStyle(
     fontSize: 30.0, color: Color(0xFFFFFFFF), fontWeight: FontWeight.bold);
@@ -13,7 +13,7 @@ const resultHeadingTextStyle = TextStyle(
     fontSize: 50.0, fontWeight: FontWeight.bold, color: Color(0xFFFFFFFF));
 
 const resultTextStyle = TextStyle(
-    fontSize: 22.2, fontWeight: FontWeight.bold, color: Color(0xFF24D876));
+    fontSize: 23.0, fontWeight: FontWeight.bold, color: Color(0xFF24D876));
 
 const BMITextStyle = TextStyle(
     fontSize: 90.0, fontWeight: FontWeight.bold, color: Color(0xFFFFFFFF));
