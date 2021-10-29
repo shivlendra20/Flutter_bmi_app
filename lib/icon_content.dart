@@ -4,7 +4,7 @@ const activeTextStyle = TextStyle(fontSize: 20.0, color: Color(0xFF8D8E98));
 const numberTextStyle = TextStyle(
   color: Color(0xFFFFFFFF),
   fontSize: 50.0,
-  fontWeight: FontWeight.w800,
+  fontWeight: FontWeight.w900,
 );
 const largeTextStyle = TextStyle(
     fontSize: 30.0, color: Color(0xFFFFFFFF), fontWeight: FontWeight.bold);
@@ -35,10 +35,10 @@ class iconContent extends StatelessWidget {
         Icon(
           icon,
           color: Color(0xFFFFFFFF),
-          size: 80.0,
+          size: 82.0,
         ),
         SizedBox(
-          height: 15.0,
+          height: 16.0,
         ),
         Text(
           label,
